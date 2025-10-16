@@ -1,0 +1,303 @@
+{
+  "coupons": {
+    "-O8GU3kFI5wT1E-uF0-d": {
+      "code": "testCode",
+      "due_date": 1727943951709,
+      "id": "-O8GU3kFI5wT1E-uF0-d",
+      "is_enabled": 1,
+      "percent": 80,
+      "title": "65"
+    },
+    "-O8GU8MBoVAlHA3kDAIM": {
+      "code": "testCode",
+      "due_date": 1727943969680,
+      "id": "-O8GU8MBoVAlHA3kDAIM",
+      "is_enabled": 1,
+      "percent": 80,
+      "title": "8820"
+    }
+  },
+  "carts": {
+    "-OUJ8UWkAtkSCbJCbjtQ": {
+      "product": {
+        "category": "响茶特調",
+        "content": "以琥珀烏龍茶為基底，搭配桂花糖漿，一口一陣花香飄散，整體喝起來宛如在花海中徜徉，清新順口",
+        "description": "以琥珀烏龍茶為基底，搭配桂花糖漿，一口一陣花香飄散，整體喝起來宛如在花海中徜徉，清新順口",
+        "id": "-NkhALltM71RN3-JeskU",
+        "imageUrl": "https://i.imgur.com/zBkT0oi.jpg",
+        "imagesUrl": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "is_enabled": 1,
+        "num": 10,
+        "origin_price": 59,
+        "price": 59,
+        "title": "桂花暮茶",
+        "unit": "1"
+      },
+      "product_id": "-NkhALltM71RN3-JeskU",
+      "qty": 1,
+      "total": 59
+    }
+  },
+  "orders": {
+    "-O8R6FCDIngLq5q7L1rt": {
+      "create_at": 1728122258358,
+      "id": "-O8R6FCDIngLq5q7L1rt",
+      "is_paid": false,
+      "products": {
+        "-NkhAUvSCx70dn318Pba": {
+          "final_total": 45,
+          "id": "-NkhAUvSCx70dn318Pba",
+          "product": {
+            "category": "响茶特調",
+            "content": "烏龍茶搭配淡淡的桂花香，宛如在茶園中聆聽著自然的旋律，清雅而不失層次感，每一口都是音符的輕盈舞動",
+            "description": "烏龍茶搭配淡淡的桂花香，宛如在茶園中聆聽著自然的旋律，清雅而不失層次感，每一口都是音符的輕盈舞動",
+            "id": "-NkhAUvSCx70dn318Pba",
+            "imageUrl": "https://i.imgur.com/qBM0n2H.jpg",
+            "imagesUrl": [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "is_enabled": 1,
+            "num": 9,
+            "origin_price": 45,
+            "price": 45,
+            "title": "烏龍响茶",
+            "unit": "1"
+          },
+          "qty": 1,
+          "total": 45
+        }
+      },
+      "total": 45,
+      "user": {
+        "address": "5",
+        "email": "5",
+        "name": "5",
+        "tel": "5"
+      }
+    }
+  },
+  "products": {
+    "-NkhALltM71RN3-JeskU": {
+      "category": "响茶特調",
+      "content": "以琥珀烏龍茶為基底，搭配桂花糖漿，一口一陣花香飄散，整體喝起來宛如在花海中徜徉，清新順口",
+      "description": "以琥珀烏龍茶為基底，搭配桂花糖漿，一口一陣花香飄散，整體喝起來宛如在花海中徜徉，清新順口",
+      "id": "-NkhALltM71RN3-JeskU",
+      "imageUrl": "https://i.imgur.com/zBkT0oi.jpg",
+      "imagesUrl": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "is_enabled": 1,
+      "num": 10,
+      "origin_price": 59,
+      "price": 59,
+      "title": "桂花暮茶",
+      "unit": "1"
+    },
+    "-NkhAUvSCx70dn318Pba": {
+      "category": "响茶特調",
+      "content": "烏龍茶搭配淡淡的桂花香，宛如在茶園中聆聽著自然的旋律，清雅而不失層次感，每一口都是音符的輕盈舞動",
+      "description": "烏龍茶搭配淡淡的桂花香，宛如在茶園中聆聽著自然的旋律，清雅而不失層次感，每一口都是音符的輕盈舞動",
+      "id": "-NkhAUvSCx70dn318Pba",
+      "imageUrl": "https://i.imgur.com/qBM0n2H.jpg",
+      "imagesUrl": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "is_enabled": 1,
+      "num": 9,
+      "origin_price": 45,
+      "price": 45,
+      "title": "烏龍响茶",
+      "unit": "1"
+    },
+    "-NkhAcJT8IvV8nm6Lbjj": {
+      "category": "奶茶",
+      "content": "招牌飲料中的經典之作，軟糖口感如粉粿，入口即化，喝起來宛如在口中舞動的甜蜜交響曲，讓人難以抗拒",
+      "description": "招牌飲料中的經典之作，軟糖口感如粉粿，入口即化，喝起來宛如在口中舞動的甜蜜交響曲，讓人難以抗拒",
+      "id": "-NkhAcJT8IvV8nm6Lbjj",
+      "imageUrl": "https://i.imgur.com/ujRcKs1.jpg",
+      "imagesUrl": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "is_enabled": 1,
+      "num": 8,
+      "origin_price": 70,
+      "price": 70,
+      "title": "焦糖軟糖奶茶",
+      "unit": "1"
+    },
+    "-NkhAqE3Q89OsEwR3GWV": {
+      "category": "奶茶",
+      "content": "不帶色素的珍珠與焙而奶茶交織在一起，口感綿密，仿佛每一口都是珍珠的溫暖擁抱，一杯喝下去難以自拔",
+      "description": "不帶色素的珍珠與焙而奶茶交織在一起，口感綿密，仿佛每一口都是珍珠的溫暖擁抱，一杯喝下去難以自拔",
+      "id": "-NkhAqE3Q89OsEwR3GWV",
+      "imageUrl": "https://i.imgur.com/vElJOUc.jpg",
+      "imagesUrl": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "is_enabled": 1,
+      "num": 7,
+      "origin_price": 55,
+      "price": 55,
+      "title": "琥珀珍珠奶茶",
+      "unit": "1"
+    },
+    "-NkhBQ-zH82o0PHYYs-i": {
+      "category": "奶茶",
+      "content": "以枚羅紅茶為基底，搭配鮮奶，奶香濃郁，每一口都是濃厚的茶香和奶香交織，帶有深度的層次感",
+      "description": "以枚羅紅茶為基底，搭配鮮奶，奶香濃郁，每一口都是濃厚的茶香和奶香交織，帶有深度的層次感",
+      "id": "-NkhBQ-zH82o0PHYYs-i",
+      "imageUrl": "https://i.imgur.com/WUJoZ4L.jpg",
+      "imagesUrl": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "is_enabled": 1,
+      "num": 6,
+      "origin_price": 65,
+      "price": 65,
+      "title": "焙而那提",
+      "unit": "1"
+    },
+    "-NkhBaYcYlxvBGo7a48L": {
+      "category": "奶茶",
+      "content": "枚羅紅茶與奶粉的完美搭配，帶有淡淡的焙茶香，即便加了奶，卻不失清新，每一口都是舌尖上的享受",
+      "description": "枚羅紅茶與奶粉的完美搭配，帶有淡淡的焙茶香，即便加了奶，卻不失清新，每一口都是舌尖上的享受",
+      "id": "-NkhBaYcYlxvBGo7a48L",
+      "imageUrl": "https://i.imgur.com/zBA3MJN.jpg",
+      "imagesUrl": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "is_enabled": 1,
+      "num": 5,
+      "origin_price": 55,
+      "price": 55,
+      "title": "焙而奶茶",
+      "unit": "1"
+    },
+    "-NkhBprY54C8uCD-jlma": {
+      "category": "茶",
+      "content": "適合午後的清爽無糖茶，如同春天的微風，清新宜人，一杯讓人心曠神怡的茶飲",
+      "description": "適合午後的清爽無糖茶，如同春天的微風，清新宜人，一杯讓人心曠神怡的茶飲",
+      "id": "-NkhBprY54C8uCD-jlma",
+      "imageUrl": "https://i.imgur.com/pdR7uGG.jpg",
+      "imagesUrl": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "is_enabled": 1,
+      "num": 4,
+      "origin_price": 35,
+      "price": 35,
+      "title": "清甜春茶",
+      "unit": "1"
+    },
+    "-NkhByEp9_AtnN6fTp6I": {
+      "category": "茶",
+      "content": "喝起來帶有一點炭培香氣，如同品味著大自然的韻味，琥珀烏龍散發著獨特的迷人風采",
+      "description": "喝起來帶有一點炭培香氣，如同品味著大自然的韻味，琥珀烏龍散發著獨特的迷人風采",
+      "id": "-NkhByEp9_AtnN6fTp6I",
+      "imageUrl": "https://i.imgur.com/ESqcXM5.jpg",
+      "imagesUrl": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "is_enabled": 1,
+      "num": 3,
+      "origin_price": 35,
+      "price": 35,
+      "title": "琥珀烏龍",
+      "unit": "1"
+    },
+    "-NkhCAwAqosTQknnllbr": {
+      "category": "茶",
+      "content": "清爽而不帶苦澀的綠茶，如同一陣微風拂過，炎熱夏日的理想選擇，一杯無糖茶解膩，宛如沐浴在清新的綠意中",
+      "description": "清爽而不帶苦澀的綠茶，如同一陣微風拂過，炎熱夏日的理想選擇，一杯無糖茶解膩，宛如沐浴在清新的綠意中",
+      "id": "-NkhCAwAqosTQknnllbr",
+      "imageUrl": "https://i.imgur.com/udSW63Z.jpg",
+      "imagesUrl": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "is_enabled": 1,
+      "num": 2,
+      "origin_price": 35,
+      "price": 35,
+      "title": "揉香綠茶",
+      "unit": "1"
+    },
+    "-NkhCHTC-Wq9DJiT3I88": {
+      "category": "茶",
+      "content": "醇厚感的紅茶，仿佛一口沉浸在茶香濃郁的世界，建議加一分糖或微糖，將香氣和甘甜完美平衡",
+      "description": "醇厚感的紅茶，仿佛一口沉浸在茶香濃郁的世界，建議加一分糖或微糖，將香氣和甘甜完美平衡",
+      "id": "-NkhCHTC-Wq9DJiT3I88",
+      "imageUrl": "https://i.imgur.com/Lja9JNA.jpg",
+      "imagesUrl": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "is_enabled": 1,
+      "num": 1,
+      "origin_price": 35,
+      "price": 35,
+      "title": "枚羅紅茶",
+      "unit": "1"
+    },
+    "-O8GRuEw3oUb-lZwowhi": {
+      "category": "555",
+      "content": "9",
+      "description": "9",
+      "id": "-O8GRuEw3oUb-lZwowhi",
+      "imageUrl": "8922",
+      "is_enabled": 1,
+      "origin_price": 100,
+      "price": 300,
+      "title": "555",
+      "unit": "9"
+    }
+  }
+}
